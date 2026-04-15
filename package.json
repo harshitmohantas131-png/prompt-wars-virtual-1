@@ -1,6 +1,7 @@
 {
-  "name": "temp-app",
-  "private": true,
+  "name": "venueflow-ai",
+  "description": "Smart stadium assistant for sporting venue crowd navigation"
+  ,"private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
