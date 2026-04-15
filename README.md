@@ -12,6 +12,9 @@ Sports event attendee inside a large stadium
 
 Large venues often experience congestion at gates, food courts, restrooms, and exits. VenueFlow AI helps attendees quickly identify better routes and lower-wait options using simulated venue intelligence.
 
+## Live Demo
+Cloud Run Deployment : https://venueflow-ai-514374581163.asia-south1.run.app/
+
 ## Core Features
 
 * Smart assistant based on user location and need
@@ -29,6 +32,13 @@ Users select:
 * current requirement
 
 The assistant evaluates mock venue conditions and returns a contextual recommendation.
+
+## Screenshots
+
+1. Full Dashboard Overview : prompt-wars-virtual-1\public\screenshots\full-dashboard.png
+2. Smart Recommendation Output : prompt-wars-virtual-1\public\screenshots\recommendation-output.png
+3. AI Loading State : prompt-wars-virtual-1\public\screenshots\loading-state.png
+4. Smart Assistant Input Flow : prompt-wars-virtual-1\public\screenshots\assistant-input.png
 
 ## Technical Stack
 
