@@ -35,10 +35,22 @@ The assistant evaluates mock venue conditions and returns a contextual recommend
 
 ## Screenshots
 
-1. Full Dashboard Overview : prompt-wars-virtual-1\public\screenshots\full-dashboard.png
-2. Smart Recommendation Output : prompt-wars-virtual-1\public\screenshots\recommendation-output.png
-3. AI Loading State : prompt-wars-virtual-1\public\screenshots\loading-state.png
-4. Smart Assistant Input Flow : prompt-wars-virtual-1\public\screenshots\assistant-input.png
+### 1. Full Dashboard Overview
+
+![Full Dashboard](./public/screenshots/full-dashboard.png)
+
+### 2. Smart Recommendation Output
+
+![Recommendation Output](./public/screenshots/recommendation-output.png)
+
+### 3. AI Loading State
+
+![Loading State](./public/screenshots/loading-state.png)
+
+### 4. Smart Assistant Input Flow
+
+![Assistant Input](./public/screenshots/assistant-input.png)
+
 
 ## Technical Stack
 
